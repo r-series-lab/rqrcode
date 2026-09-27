@@ -160,3 +160,14 @@ public/            前端静态资源
 MIT，见 [LICENSE](LICENSE)。
 
 公开仓库边界、贡献约定与安全报告方式见 [PUBLIC_REPOSITORY.md](PUBLIC_REPOSITORY.md)、[CONTRIBUTING.md](CONTRIBUTING.md) 和 [SECURITY.md](SECURITY.md)。
+
+## 界面预览与公开文档
+
+公开截图使用 `https://example.com` 作为合成输入，不包含真实链接、二维码、账号或图片文件。
+
+![rQrcode 生成工作区](docs/assets/screenshots/rqrcode-generate.png)
+
+- [界面与公开演示说明](docs/interface-guide.md)
+- [发布说明](RELEASE.md)
+- [安全边界](SECURITY.md)
+- [贡献指南](CONTRIBUTING.md)
